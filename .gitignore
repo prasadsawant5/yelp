@@ -1,0 +1,12 @@
+test_photos/
+train_img/
+train_photo_to_biz_ids.csv
+test_img/
+train_photos/
+train.csv
+train_label/
+test_photo_to_biz.csv
+sample_submission.csv
+image_classification.data-00000-of-00001
+image_classification.meta
+checkpoint
